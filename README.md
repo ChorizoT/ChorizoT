@@ -16,3 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 <!---[![GitHub Streak](https://streak-stats.demolab.com?user=BirdyWood&theme=javascript&hide_border=true&mode=weekly&background=45%2CFFEE58%2CFFB989)](https://git.io/streak-stats)-->
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChorizoT&theme=transparent)
+
+<a href="https://app.daily.dev/chorizo"><img src="https://api.daily.dev/devcards/v2/FCoslOgujY8g8KhXmcucr.png?type=default&r=zqk" width="356" alt="Chorizo's Dev Card"/></a>
