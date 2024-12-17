@@ -1,6 +1,6 @@
 ## Hi, I'm Tom
 
-<!---
+
 - 👋 Hi, I’m @ChorizoT
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -12,7 +12,7 @@
 
 ChoirzoT/ChorizoT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+
 
 <!---[![GitHub Streak](https://streak-stats.demolab.com?user=BirdyWood&theme=javascript&hide_border=true&mode=weekly&background=45%2CFFEE58%2CFFB989)](https://git.io/streak-stats)-->
 ![GitHub Streak](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChorizoT&theme=transparent)
